@@ -10,6 +10,8 @@ namespace Parte2
             List<int> rompecabezas = new List<int>();
             int numeros, resultado = 0;
 
+            Console.WriteLine("Ingrese su rompecabezas, 0 para salir");
+
             //La lectura termina cuando tecleas 0
             while (true)
             {

@@ -10,7 +10,8 @@ namespace Parte1
             List<int> rompecabezas = new List<int>();
             int numeros, resultado = 0;
 
-            //La lectura termina cuando tecleas 0
+            Console.WriteLine("Ingresa tu rompecabezas, 0 para salir");
+            
             while (true)
             {
                 numeros = Int32.Parse(Console.ReadLine());

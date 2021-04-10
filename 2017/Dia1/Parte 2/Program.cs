@@ -27,13 +27,6 @@ namespace Parte_2
                 else break;
             }
 
-            if (rompecabezas[rompecabezas.Length - 1] == rompecabezas[divisionLongitud])
-            {
-                numero = rompecabezas[divisionLongitud].ToString();
-
-                suma += Int32.Parse(numero);
-            }
-
             Console.WriteLine("\nLa respuesta es : {0}", suma);
         }
     }
