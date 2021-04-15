@@ -1,0 +1,16 @@
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\Parte2.exe
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\Parte2.deps.json
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\Parte2.runtimeconfig.json
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\Parte2.runtimeconfig.dev.json
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\Parte2.dll
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\ref\Parte2.dll
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\bin\Debug\net5.0\Parte2.pdb
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.csprojAssemblyReference.cache
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.AssemblyInfo.cs
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.dll
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\ref\Parte2.dll
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.pdb
+C:\Users\kevin\Documents\Proyectos C#\AdventOfCode\2019\Dia2\Parte2\obj\Debug\net5.0\Parte2.genruntimeconfig.cache
