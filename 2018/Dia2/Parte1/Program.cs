@@ -8,11 +8,10 @@ namespace Parte1
         static void Main(string[] args)
         {
             List<string> rompecabezas = new List<string>();
-            List<char> letrasDiferentes = new List<char>();
+            List<int> contadores = new List<int>();
 
             string input;
-            char letra;
-            int contador = 0, contador1 = 0, contador2 = 0, resultado, k = 0, vueltasItem = 0;
+            int contador = 0, contador1 = 0, contador2 = 0, resultado;
 
             Console.WriteLine("Ingresa tu rompecabezas 0 para salir: ");
 
@@ -26,40 +25,26 @@ namespace Parte1
 
             foreach (var item in rompecabezas)
             {
-                for (int i = 0; i < item.Length; i++)
+                foreach (var item2 in item)
                 {
-                    if(!letrasDiferentes.Exists(x => x == item[i]))
+                    for (int i = 0; i < item.Length; i++)
                     {
-                        letrasDiferentes.Add(item[i]);
-                    }
-                }
-
-                while (vueltasItem < item.Length)
-                {
-                    letra = letrasDiferentes[k];
-
-                    for (int j = 0; j < item.Length; j++)
-                    {
-                        if (letra == item[j]) contador++;
-
-                        if (contador == 2) contador1++;
-                        else
-                        {
-                            if (contador == 3) contador2++;
-                        }
+                        if (item2 == item[i]) contador++;
                     }
 
-                    Console.WriteLine(contador);
-
-                    vueltasItem++;
+                    contadores.Add(contador);
+                    contador = 0;
                 }
 
-                k++;
+                if (contadores.Exists(x => x == 2)) contador1++;
+                if (contadores.Exists(x => x == 3)) contador2++;
+
+                contadores.Clear();
             }
 
             resultado = contador1 * contador2;
 
-            Console.WriteLine("La respuesta es : {0}", resultado);
+            Console.WriteLine(resultado);
         }
     }
 }
