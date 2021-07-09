@@ -8,7 +8,7 @@ namespace Parte2
         static void Main(string[] args)
         {
             List<string> rompecabezas = new List<string>();
-            List<int> posicionesLetraDiferente = new List<int>();
+            List<string> itemDiferente = new List<string>();
 
             string input;
             int contador = 0;
@@ -27,17 +27,30 @@ namespace Parte2
             {
                 foreach (var item2 in rompecabezas)
                 {
-                    for (int i = 0; i < item2.Length; i++)
+                    contador = 0;
+
+                    if (item != item2)
                     {
-                        if (item != item2)
+                        for (int i = 0; i < item2.Length; i++)
                         {
                             if (item[i] != item2[i])
                             {
                                 contador++;
                             }
                         }
-                    }
+
+                        if (contador == 1)
+                        {
+                            itemDiferente.Add(item2);
+                        }
+                    } 
                 }
+            }
+
+            Console.WriteLine("\nRespuesta: ");
+            for (int i = 0; i < itemDiferente[0].Length; i++)
+            {
+                if (itemDiferente[0][i] == itemDiferente[1][i]) Console.Write(itemDiferente[0][i]);
             }
         }
     }

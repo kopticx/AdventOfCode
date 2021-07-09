@@ -44,6 +44,7 @@ namespace Parte1
 
             resultado = contador1 * contador2;
 
+            Console.WriteLine("\nRespuesta: ");
             Console.WriteLine(resultado);
         }
     }

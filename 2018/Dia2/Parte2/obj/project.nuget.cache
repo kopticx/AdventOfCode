@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4YCG70pl3m5sFp8+8mISYrW9ygQjqgnivZq6vVRXJwN99i9JBxvo1SCdmIoNUryKjhgfiH/+7k6nxEiDePdIUg==",
+  "dgSpecHash": "GS9qINGGbLxDCc+IrJVG2+//WdRKLiMEz4SnjsZDlVs5tXzVSfZGFSjuyUeY0Lei/635UZ1k/k/3bm/QOlh4nQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kevin\\Documents\\Proyectos C#\\AdventOfCode\\2018\\Dia2\\Parte2\\Parte2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kevin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
