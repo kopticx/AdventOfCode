@@ -9,9 +9,7 @@ namespace Parte1
         {
             List<string> rompecabezas = new List<string>();
             List<string> casas = new List<string>();
-            
             int vertical = 0, horizontal = 0, regalos = 1;
-
             string input = "Aqui va el rompecabezas";
 
             Console.WriteLine("\nRespuesta");
