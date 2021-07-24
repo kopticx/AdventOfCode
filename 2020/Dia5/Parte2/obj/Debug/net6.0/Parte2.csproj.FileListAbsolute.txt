@@ -1,0 +1,15 @@
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\bin\Debug\net6.0\Parte2.exe
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\bin\Debug\net6.0\Parte2.deps.json
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\bin\Debug\net6.0\Parte2.runtimeconfig.json
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\bin\Debug\net6.0\Parte2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\bin\Debug\net6.0\ref\Parte2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\bin\Debug\net6.0\Parte2.pdb
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.csproj.AssemblyReference.cache
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.AssemblyInfo.cs
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\ref\Parte2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.pdb
+C:\Users\Kevin\Documents\Proyectos C#\AdventOfCode\2020\Dia5\Parte2\obj\Debug\net6.0\Parte2.genruntimeconfig.cache
